@@ -1,0 +1,3 @@
+# In .gitignore (if not already present)
+node_modules/
+dist/
